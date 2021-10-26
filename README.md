@@ -6,12 +6,15 @@ Data on JSON format
 
 # Endpoints
 Admin panel:
+
 http://mypublicchat.space/admin/
 
 Documentation:
+
 http://mypublicchat.space/swagger/
 
 API:
+
 http://mypublicchat.space/API/
 
 GET methods:
