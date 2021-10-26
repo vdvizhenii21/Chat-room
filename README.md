@@ -15,11 +15,13 @@ API:
 http://mypublicchat.space/API/
 
 GET methods:
+
 http://18.197.145.172/api/messages/ - list messages
 
 http://18.197.145.172/api/messages/{id} - getting single message by unique identifier
 
 POST method:
+
 http://18.197.145.172/api/messages/ - create message
 
 
