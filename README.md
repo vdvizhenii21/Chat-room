@@ -30,4 +30,4 @@ http://18.197.145.172/api/messages/ - create message
 
 # Technology stack
 
-- Python, Django REST Framework, PostgreSQL, AWS
+- Python, Django REST Framework, PostgreSQL, AWS, Nginx, Gunicorn.
